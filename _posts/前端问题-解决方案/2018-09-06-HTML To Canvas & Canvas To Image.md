@@ -1,4 +1,5 @@
 ---
+layout: post
 title: HTML To Canvas & Canvas To Image
 categories:
   - 前端问题-解决方案

@@ -1,7 +1,8 @@
 ---
+layout: post
 title: supervisor
 categories:
-- 安装配置
+  - 安装配置
 ---
 
 官网：[http://supervisord.org/](http://supervisord.org/)  

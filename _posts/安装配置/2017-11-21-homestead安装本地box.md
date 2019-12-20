@@ -1,7 +1,8 @@
 ---
+layout: post
 title: Homestead 安装本地 box
 categories: 
-- 安装配置
+  - 安装配置
 ---
 
 新建一个如下的 `metadata.json` 文件，然后编辑版本和文件位置，正常添加即可。

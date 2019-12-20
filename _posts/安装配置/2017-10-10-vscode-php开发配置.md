@@ -1,7 +1,8 @@
 ---
+layout: post
 title: vscode-php开发配置
 categories: 
-- 安装配置
+  - 安装配置
 ---
 
 > 前提：开发机已经安装了 PHP 和 [`composer`](https://getcomposer.org/)
