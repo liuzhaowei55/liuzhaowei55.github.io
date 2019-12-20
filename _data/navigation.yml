@@ -1,6 +1,4 @@
 # Site navigation links
-- title: 首页
-  URL: /
 - title: 文章
   url: /posts/
 - title: 分类
