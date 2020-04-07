@@ -17,6 +17,7 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 locale: zh-CN
+lang: zh-CN
 title: "Where's Blog"
 description: "自律者自由"
 baseurl:  # the subpath of your site, e.g. "/blog"
